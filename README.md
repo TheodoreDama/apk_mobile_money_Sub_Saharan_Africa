@@ -1,4 +1,4 @@
-# apk_mobile_money_Sub_Saharan_Africa
+# mobileMoneySubSaharanAfrica
 This project contains metadata for mobile money applications in Sub-Saharan Africa.
 
 ## Dataset Metadata
